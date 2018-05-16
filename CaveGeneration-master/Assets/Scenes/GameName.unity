@@ -916,6 +916,16 @@ Prefab:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: CreditButton
       objectReference: {fileID: 0}
+    - target: {fileID: 114791134764308188, guid: cd7ce01b1e3df7e4ca641e78277dee8b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114791134764308188, guid: cd7ce01b1e3df7e4ca641e78277dee8b,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cd7ce01b1e3df7e4ca641e78277dee8b, type: 2}
   m_IsPrefabParent: 0
